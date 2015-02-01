@@ -6,6 +6,7 @@ load: POSTWORLD
 authors: [ljyloo]
 description: build your portal!hoho!
 website: https://github.com/PyramidTeam/Portal/
+## Updated one here: https://github.com/kinect3000/UpdatedPortal/
 commands:
  portal:
   description: "portal command"
